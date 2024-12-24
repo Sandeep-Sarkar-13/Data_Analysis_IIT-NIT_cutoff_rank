@@ -10,3 +10,11 @@ The Indian Institutes of Technology (IITs) are the globally appreciated engineer
 National Institute of Technology (NITs) are premier engineering colleges in India offering admission to degree courses at both undergraduate and postgraduate level.
 
 
+This dataset contains data of JOSAA seat allocation . Admission to prestigious engineering college in india is done on the basis of marks in jee and this dataset can help summarise various statistics about admission process , category , preferred branch ,preferref location etc.
+What you can do with this dataset ?
+
+Predict someone's expected college and branch by their rank and category.
+See the trend in preferred branch
+Most popular institutes and courses.
+Gender and geographic distribution.
+Round wise expected change etc.

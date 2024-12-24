@@ -1,4 +1,4 @@
-# Data_Analysis_IIT-NIT_cutoff_rank
+# Data_Analysis_IIT-NIT_cutoff_rank_JOSAA_COUNSELLING
 
 
 Joint Entrance Examination – Main (JEE-Main), formerly All India Engineering Entrance Examination (AIEEE), is an Indian standardised computer-based test for admission to various technical undergraduate programs in engineering, architecture, and planning across colleges in India. The exam is conducted by the JEE Apex Board for Admission for B.Tech, B.Arch, etc. programs in the premier technical institutes such as the National Institutes of Technology and Indian Institutes of Information Technology are based on the rank secured in the JEE-Main. It is usually conducted twice every year.
